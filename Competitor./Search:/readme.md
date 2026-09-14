@@ -1,0 +1,4 @@
+- https://www.google.com/search?q=best+A.I.+for+science
+- https://www.google.com/search?q=best+A.I.+for+engineering
+- https://www.google.com/search?q=best+A.I.+for+math
+- https://www.google.com/search?q=best+A.I.+for+mathematics
